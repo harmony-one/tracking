@@ -1,2 +1,2 @@
 # tracking
-public report to keep track of engineering/business deliverables, hours and tasks
+public report to keep track of all harmony engineering/business deliverables as part of our open development. part time contributors will track hours and tasks
