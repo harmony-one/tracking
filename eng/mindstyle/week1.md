@@ -12,4 +12,4 @@
 | 08/03  | 14:50  | 15:10  |  0.3 | finish with JK of stake.fish, they will join as a validator as soon as they expand the team and capacities internally, staying in contact  |
 |  08/04 |  01:30 |  3:30 |  2 | start research and a list of potential validators that would join Harmony network  |
 | 08/04  |  11:45 |  13:50 | 2  |  contacting 4+ validators from that list and engaging in discussions (list will remain private, accessible to the core team only, due to personal contacts) |
-|   |   |   |   |   |
+| 08/04  |  23:00 | 00:30   | 1.5  | call with sam and jb about validator dao/daos in general  |
