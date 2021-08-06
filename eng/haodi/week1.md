@@ -1,7 +1,7 @@
 # Summary
 * Owner: haodi
 * Week 1: 08/01-08/08
-* Total: 10 hours
+* Total: 10.5 hours
 * Overtime: 0.5 hours
 
 # Time Table
