@@ -11,6 +11,4 @@
 | 08/06  |  call with a fiat partner, podcast with a large french blockchain media, call with another layer 1 protocol about bridging  |
 | 08/07  |  attend san francisco developer event  |
 | 08/08  |  plan our team travel to mcon in denver and messari in new york for september, put bancor proposal on snapshot for voting, ama with bancor core community  |
--
-| 08/09  |  all hands & biz call,   |
-| 08/10  |  call with payment project, call with partner to expand hrc-20 ecosystem  |
+
