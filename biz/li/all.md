@@ -10,6 +10,6 @@
 | 08/05  |  sync with rosa on miami hack week, sync with sam on community dao elections, call with aave delegates, write hackathon prize guidelines: https://talk.harmony.one/t/1-million-hackathon-prize-and-grant-guidelines/1949  |
 | 08/06  |  call with a fiat partner, podcast with a large french blockchain media, call with another layer 1 protocol about bridging  |
 | 08/07  |  attend san francisco developer event: https://twitter.com/lijiang2087/status/1424191493154115587?s=20  |
-| 08/08  |  ama with bancor core community: https://twitter.com/lijiang2087/status/1424068021627195393?s=20  |
+| 08/08  |  ama with bancor core community for whitelisting ONE: https://vote.bancor.network/#/bancornetwork.eth/proposal/QmRjVnMPJgbZZDSkZfjeUiTTGQPgA7QeoXyv5WFzkjqzmt  |
 | 08/09 | plan our team travel to mcon in denver and messari in new york for september |
 
