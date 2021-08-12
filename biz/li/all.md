@@ -12,4 +12,7 @@
 | 08/07  |  attend san francisco developer event: https://twitter.com/lijiang2087/status/1424191493154115587?s=20  |
 | 08/08  |  ama with bancor core community for whitelisting ONE: https://vote.bancor.network/#/bancornetwork.eth/proposal/QmRjVnMPJgbZZDSkZfjeUiTTGQPgA7QeoXyv5WFzkjqzmt  |
 | 08/09 | plan our team travel to mcon in denver and messari in new york for september |
+| 08/10 | long catch up with my friend at superfluid, sync with pj on partnerships, call with a partner |
+| 08/11 | interviewing candidate, team hike and lunch, team sync on biz partners and dao, hosting friends for sports and dinner |
+| 08/12 | developer community call, sync with rosa on messari mainnet conf, hackathon engagement team call, clubhouse with moh musa on bringing blockchain to billions of people, crypto dev happy hour in sf |
 
