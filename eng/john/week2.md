@@ -12,7 +12,7 @@
 | 08/11 | 11:00 | 17:00 | 5 | [Updated Hackathon with projects](https://github.com/harmony-one/hackathon) discussed cross chain api and dao tooling
 | 08/12 | 00:00 | 00:00 | 0 | Worked on Cross chain API see additional development
 | 08/13 | 11:00 | 17:00 | 5 | Published [Deployed Contracts](https://docs.harmony.one/home/developers/list-of-deployed-contracts) and [Harmony Stack and Projects](https://docs.harmony.one/home/developers/harmony-stack)
-| 08/14 | 00:00 | 23:30 | 0 | 
+| 08/14 | 00:00 | 00:00 | 0 | 
 | 08/15 | 00:00 | 00:00 | 0 |
 
 <details>
