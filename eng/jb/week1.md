@@ -1,7 +1,7 @@
 # Summary
 * Owner: xxx
 * Week X: 08/01-08/08
-* Total: 10 hours
+* Total: 11 hours
 * Overtime: 2 hours
 
 # Time Table
