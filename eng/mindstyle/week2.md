@@ -1,7 +1,7 @@
 # Summary
 * Owner: mindstyle
 * Week 2: 08/09-08/15
-* Total: 10 hours
+* Total: 11.5 hours
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
