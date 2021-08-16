@@ -18,7 +18,7 @@
 <details>
   <summary>Additional Development </summary>
   
-  - [Deployed Kanga Finance AMM (Sushiswap clone) on Harmony Testnet](https://github.com/KangaFinance/crosschain-api/tree/dev)
+  - [Deployed Kanga Finance AMM (Sushiswap clone) on Harmony Testnet](https://github.com/KangaFinance/kanga), [sdk](https://github.com/KangaFinance/kanga-sdk), [frontend](https://github.com/KangaFinance/kanga-interface), [npm packages](https://www.npmjs.com/settings/kangafinance/packages) 
 ```
     johnlaptop sushiswap (canary) $ npx hardhat --network harmony-testnet deploy
 (node:90492) Warning: Accessing non-existent property 'VERSION' of module exports inside circular dependency
