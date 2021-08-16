@@ -15,4 +15,7 @@
 | 08/10 | long catch up with my friend at superfluid, sync with pj on partnerships, call with a partner |
 | 08/11 | interviewing candidate, team hike and lunch, team sync on biz partners and dao, hosting friends for sports and dinner |
 | 08/12 | developer community call, sync with rosa on messari mainnet conf, hackathon engagement team call, clubhouse with moh musa on bringing blockchain to billions of people, crypto dev happy hour in sf |
+|08/13| call with a potential defi partner, panel with cheeky crypto, meeting harmony family, coordinate event with mcon.fun for september event in denver, call with zi, founder of timeless dao, call with team on hackathon preparations|
+|08/14| catch up on telegram channels, review document on scaling harmony ecosystem fund |
+|08/15| post proposal to launch curve on harmony: https://gov.curve.fi/t/launch-curve-on-harmony/2092|
 
