@@ -1,6 +1,6 @@
 # Summary
 * Owner: xxx
-* Week X: 08/09-08/16
+* Week X: 08/09-08/15
 * Total: 10 hours
 * Overtime: 2 hours
 
