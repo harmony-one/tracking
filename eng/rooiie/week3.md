@@ -12,6 +12,7 @@
 | 08/21  |   |   |  4 | walking through and closed github issues on one wallet and dashboard, added comments to all and let yelllowsin close the issues |
 
 Github onewallet issues.
+
 https://github.com/harmony-one/chrome-extension-wallet/issues/92, checked the issue on the latest version and it's not there anymore, this one can be closed
 https://github.com/harmony-one/chrome-extension-wallet/issues/78, onewallet uses pin on login and password for trasaction so this issue is solved.
 https://github.com/harmony-one/chrome-extension-wallet/issues/85, bought an NFT with an imported wallet via private key and it works flawless
