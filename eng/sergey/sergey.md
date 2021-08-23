@@ -1,11 +1,10 @@
 # Summary
-* Owner: xxx
-* Week X: 08/01-08/08
-* Total: 10 hours
+* Owner: Sergey
+* Total: 40 hours
 
 # Time Table
-| date  | start time  | end time | duration  |  note |
-|---|---|---|---|---|
-| 08/01  | 10:00  | 11:30  | 1.5  | sample tasks  |
+| date  | duration  |  note |
+|--- | ---|---|
+| 08/30  | 1.5  | sample tasks  |
 |   |   |   |   |   |
 |   |   |   |   |   |
