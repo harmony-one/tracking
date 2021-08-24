@@ -1,6 +1,6 @@
 # Summary
 * Owner: mindstyle
-* Week 3: 08/23-08/29
+* Week 4: 08/23-08/29
 * Total: hours
 
 # Time Table
