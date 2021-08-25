@@ -7,13 +7,13 @@
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 08/09 | 00:00 | 00:00 | 2 |  |
-| 08/10 | 11:00 | 17:00 | 2 | [Worked on Ecosystem](https://docs.harmony.one/home/developers/harmony-stack) and Dao Tooling Research
-| 08/11 | 11:00 | 17:00 | 5 | [Updated Hackathon with projects](https://github.com/harmony-one/hackathon) discussed cross chain api and dao tooling
-| 08/12 | 11:00 | 19:00 | 8 | Worked on Cross chain API, updated [hackathon README](https://github.com/harmony-one/hackathon), created an [overview for Track 1: Cross Chain Liquidity](https://talk.harmony.one/t/track-1-cross-chain-liquidity/1969/2)
-| 08/13 | 00:00 | 00:00 | 2 | DAO Meeting, Hackathon Standup, CrossChain API work
-| 08/14 | 00:00 | 00:00 | 0 | 
-| 08/15 | 00:00 | 00:00 | 0 |
+| 08/16 | 00:00 | 00:00 | 2 | [Worked on Cross Chain API](https://github.com/KangaFinance/crosschain-api/tree/dev) |
+| 08/17 | 11:00 | 17:00 | 2 | [Worked on Ecosystem](https://docs.harmony.one/home/developers/harmony-stack) and Dao Tooling Research
+| 08/18 | 11:00 | 17:00 | 5 | [Updated Hackathon with projects](https://github.com/harmony-one/hackathon) discussed cross chain api and dao tooling
+| 08/19 | 11:00 | 19:00 | 8 | Worked on Cross chain API, updated [hackathon README](https://github.com/harmony-one/hackathon), created an [overview for Track 1: Cross Chain Liquidity](https://talk.harmony.one/t/track-1-cross-chain-liquidity/1969/2)
+| 08/20 | 00:00 | 00:00 | 2 | DAO Meeting, Hackathon Standup, CrossChain API work
+| 08/21 | 00:00 | 00:00 | 0 | 
+| 08/22 | 00:00 | 00:00 | 0 |
 
 <details>
   <summary>Additional Development </summary>
