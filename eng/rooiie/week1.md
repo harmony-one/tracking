@@ -1,5 +1,5 @@
 # Summary
-* Owner: xxx
+* Owner: rooiie
 * Week X: 08/01-08/08
 * Total: 3 hours
 * Overtime: 0 hours
