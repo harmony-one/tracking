@@ -13,4 +13,4 @@
 | 08/26  |   |   | 1  | Validator support (5) |
 | 08/27  |   |   | 1  | Validator support (5), new testnet discussion with Mirror |
 | 08/28  |   |   | 2  | Validator support (5), send testnet funds to new potential validators |
-| 08/29  |   |   | 1  | Validator support (5), advise new validaotr on strategies |
+| 08/29  |   |   | 2  | Validator support (5), advise new validator on strategies |
