@@ -1,6 +1,6 @@
 # Summary
 * Owner: rooiie
-* Week 3: 08/23-08/30
+* Week 4: 08/23-08/30
 * Total: 4 hours
 
 # Time Table

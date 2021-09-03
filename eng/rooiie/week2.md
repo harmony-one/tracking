@@ -1,6 +1,6 @@
 # Summary
 * Owner: rooiie
-* Week X: 08/09-08/16
+* Week 2: 08/09-08/16
 * Total: 3 hours
 * Overtime: 0 hours
 
