@@ -1,6 +1,6 @@
 # Summary
 * Owner: Bruno
-* Week X: 08/30-09/05
+* Week 5: 08/30-09/05
 * Total: 7 hours
 * Overtime: 0 hours
 
