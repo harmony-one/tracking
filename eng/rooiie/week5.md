@@ -6,6 +6,6 @@
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 08/31  |   |   |  3 | helping on channels |
+| 08/31  |   |   |  3 | helping on channels on discord. Helped some testnet users with questions |
 
 
