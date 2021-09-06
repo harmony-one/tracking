@@ -1,6 +1,6 @@
 # Summary
 * Owner: Mirror
-* Week 1 of Sep: 08/31-09/06
+* Week 1 of Sep: 08/31-09/05
 * Total: 2 hours
 * Overtime: 0 hours
 
