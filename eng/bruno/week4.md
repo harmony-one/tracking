@@ -1,6 +1,6 @@
 # Summary
-* Owner: bruno
-* Week X: 08/23-08/29
+* Owner: Bruno
+* Week 4: 08/23-08/29
 * Total: 10 hours
 * Overtime: 0 hours
 
