@@ -1,1 +1,13 @@
+# Summary
+* Owner: Rachit
+* Week X: 1
+* Total: 10 hours
+* Overtime: 2 hours
 
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 11 / 09 | 21:00 | 2:00 | 5 | Looking into Staked relayer and working on code design for it in go. Reviewing the code once again, and looking into some go tutorial alongside |
+| 12/09  | 23:00  | 3:00  | 4  | Looking into the migration bug. Discussing it with yurie too. Created pr https://github.com/harmony-one/onebtc/pull/60 for yurie to review while i look into fixing the migrations. |
+
+Week 2 Sep - Total hrs: 9
