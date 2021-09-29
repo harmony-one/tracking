@@ -1,7 +1,7 @@
 # Summary
 * Owner: Bruno
 * Week 8: 09/20-09/26
-* Total: # hours
+* Total: 4 hours
 * Overtime: # hours
 
 # Time Table
