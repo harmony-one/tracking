@@ -1,7 +1,7 @@
 # Summary
 * Owner: Bruno
 * Week 9: 09/27-10/03
-* Total: # hours
+* Total: 5 hours
 * Overtime: # hours
 
 # Time Table
