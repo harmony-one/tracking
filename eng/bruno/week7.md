@@ -1,6 +1,6 @@
 # Summary
 * Owner: Bruno
-* Week 6: 09/06-09/12
+* Week 7: 09/13-09/19
 * Total: # hours
 * Overtime: # hours
 
