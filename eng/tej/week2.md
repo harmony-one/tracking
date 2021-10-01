@@ -11,3 +11,4 @@
 | 09/28  | 10:00  | 18:00  | 8  | Did the analysis of Redeem contract and wrote the initial test for Redeem request.  |
 | 09/29  | 10:00  | 16:00  | 6  | Merged Issue contract test and fixed issues on the test for Redeem contract. Implemented the test for cancelRedeem.  |
 | 09/30  | 11:00  | 19:00  | 8 | Fixed issues on the test and implemented revert tests for the invalid cancel period.  |
+| 10/01  | 10:00  | 18:00  | 8 | Implemented the revert tests for the request already completed and fixed issues existing on the test. Made a PR for the review.  |
