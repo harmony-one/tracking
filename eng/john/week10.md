@@ -1,19 +1,19 @@
 # Summary
 * Owner: john
-* Week 2: 08/23-08/29
+* Week 10: 08/30-09/05
 * Total: 15 hours
 * Overtime:  hours
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 09/6  | 00:00 | 00:00 | 0 |
-| 09/7  | 00:00 | 00:00 | 6 | Hackathon, Incubator and Wallet Integration
-| 09/8  | 00:00 | 00:00 | 4 | Liquidity Provisioning on testnet and NFT meetup
-| 09/9  | 00:00 | 00:00 | 0 |
-| 09/10 | 00:00 | 00:00 | 0 |
-| 09/11 | 00:00 | 00:00 | 0 |
-| 09/12 | 00:00 | 00:00 | 0 |
+| 08/30 | 00:00 | 00:00 | 0 | 
+| 08/31 | 00:00 | 00:00 | 0 | 
+| 09/1  | 00:00 | 00:00 | 7 | [Hardhat Harmony Integration](https://www.npmjs.com/package/@kangafinance/hardhat-etherscan) and Liquidity Provisioning, Incubator DAO  
+| 09/2  | 00:00 | 00:00 | 2 | Cross chain api testing
+| 09/3  | 00:00 | 00:00 | 2 | Cross chain api design
+| 09/4  | 00:00 | 00:00 | 0 | 
+| 09/5  | 00:00 | 00:00 | 0 |
 
 <details>
   <summary>Additional Development </summary>
