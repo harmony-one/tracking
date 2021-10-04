@@ -18,10 +18,7 @@
 <details>
   <summary>Additional Development </summary>
 
-  - 8 hours [Added Liquidity Add and Withrdawal to Kanga API](https://github.com/KangaFinance/kanga-api)
-  -  hours [Worked on Kanga AMM Deployment on Harmony Testnet](https://github.com/kangafinance)
-  -  hours [Worked on Kanga Finance NPM Packages](https://www.npmjs.com/search?q=%40kangafinance)
-  - Total  hours
+  - Kanga Finance Development
 </details>
 
 <details>
