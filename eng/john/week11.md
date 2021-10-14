@@ -1,6 +1,6 @@
 # Summary
 * Owner: john
-* Week 2: 08/23-08/29
+* Week 11: 09/6-09/12
 * Total: 15 hours
 * Overtime:  hours
 
@@ -18,10 +18,7 @@
 <details>
   <summary>Additional Development </summary>
 
-  - 8 hours [Added Liquidity Add and Withrdawal to Kanga API](https://github.com/KangaFinance/kanga-api)
-  -  hours [Worked on Kanga AMM Deployment on Harmony Testnet](https://github.com/kangafinance)
-  -  hours [Worked on Kanga Finance NPM Packages](https://www.npmjs.com/search?q=%40kangafinance)
-  - Total  hours
+  - Kanga Finance Development
 </details>
 
 <details>

@@ -1,19 +1,19 @@
 # Summary
 * Owner: john
-* Week 2: 08/23-08/29
+* Week 10: 08/30-09/05
 * Total: 15 hours
 * Overtime:  hours
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 08/23 | 11:00 | 07:00 | 2 | [Worked on Cross Chain API](https://github.com/KangaFinance/crosschain-api/tree/dev) |
-| 08/24 | 11:00 | 17:00 | 9 | [Updated Harmony tracks on talk.harmony.one](https://talk.harmony.one/c/developers/hackathon/39), [Worked on Cross Chain API](https://github.com/KangaFinance/crosschain-api/tree/dev) reviewd ideas for Hackathon projects
-| 08/25 | 00:00 | 00:00 | 0 | 
-| 08/26 | 00:00 | 00:00 | 0 | 
-| 08/27 | 00:00 | 00:00 | 0 | 
-| 08/28 | 00:00 | 00:00 | 0 | 
-| 08/29 | 00:00 | 00:00 | 0 |
+| 08/30 | 00:00 | 00:00 | 0 | 
+| 08/31 | 00:00 | 00:00 | 0 | 
+| 09/1  | 00:00 | 00:00 | 7 | [Hardhat Harmony Integration](https://www.npmjs.com/package/@kangafinance/hardhat-etherscan) and Liquidity Provisioning, Incubator DAO  
+| 09/2  | 00:00 | 00:00 | 2 | Cross chain api testing
+| 09/3  | 00:00 | 00:00 | 2 | Cross chain api design
+| 09/4  | 00:00 | 00:00 | 0 | 
+| 09/5  | 00:00 | 00:00 | 0 |
 
 <details>
   <summary>Additional Development </summary>
