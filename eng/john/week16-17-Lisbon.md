@@ -2,7 +2,9 @@
 * Owner: john
 * Week 16-17: 10/15-10/22 - Lisbon
 * Total: 48  hours
+* Expenses: $775.25
 * Overtime:  hours
+* Links to [Log](https://docs.google.com/document/d/1qYblKEo761GaksHPknskUpva_PodZoTyQ_YZ_nhfyM8/edit?usp=sharing) and [Invoice](https://docs.google.com/spreadsheets/d/1LndZ26CcT90GKt_qbRGGM2puMj2srT8Fe-ZtouPd_3E/edit#gid=38977381)
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
