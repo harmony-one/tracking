@@ -41,13 +41,13 @@ Sat Oct 16th:  (5 hrs)
 Sun Oct 17th - 8hrs
 13:30 - 20:00 Harmony hosted meetup and coffee
 Contacts Met
-Tall German guy - used to live in Japan, now lives in Portugal interested in fintech/data analytics
-Norwegian Gitcoin Guy - Work in Premier Partner success
-Daniel? - Li and Abraham know him from Eth Paris? - what is he working on, what are his contact details
-German Calendar Guy - https://cal.com/ Telegram @peer_rich (thanks Boris)
-Discord DAO discovery bot team from SF - Girl and Guy?
-Couple who dropped by Crypto Guy and his girlfriend - working on a multichain... has received grants from Balancer and ....
-Portugese guys who work with digital imaging e.g. reading and verifying passports (new to crypto)
+* Tall German guy - used to live in Japan, now lives in Portugal interested in fintech/data analytics
+* Norwegian Gitcoin Guy - Work in Premier Partner success
+* Daniel? - Li and Abraham know him from Eth Paris? - what is he working on, what are his contact details
+* German Calendar Guy - https://cal.com/ Telegram @peer_rich (thanks Boris)
+* Discord DAO discovery bot team from SF - Girl and Guy?
+* Couple who dropped by Crypto Guy and his girlfriend - working on a multichain... has received grants from Balancer and ....
+* Portugese guys who work with digital imaging e.g. reading and verifying passports (new to crypto)
 
 
 Mon Oct 18th - 9:30 - 22:00 Harmony One World (12 hours)
@@ -84,18 +84,18 @@ Talks 1:00 - 5:00
 After party 5:00 - 10:00
 
 Contacts
-Curve/Stake Capital  - Julian and Julien Bouteloup - quentin - @Kii_iu
-Pods Finance - https://twitter.com/razgraf https://www.pods.finance/  app docs github
-Investment - Jonathan? from Hong Kong twitter: @mapleleafcap
-mai.finance
-Ben - QiDao - Lending Protocol - telegram: @Benjamin891 https://mai.finance docs github
-Christian Holman twitter: @0xholman
-One Family - david.crazy.one
-Stealth Project - Ask Li and Daniell? Founder worked at coinbase with Mei, located in Taiwan.
-Peer Rich - twitter: @peer_rich https://cal.com/
-NFT Collateralization: telegram @Raphael_0x
-Random Attendee: twitter @solangegueiros (was on the laptop at the start of the conference)
-BLS Security: twitter: @bela_guer https://guer.co/ - introducing to RJ.
+* Curve/Stake Capital  - Julian and Julien Bouteloup - quentin - @Kii_iu
+* Pods Finance - https://twitter.com/razgraf https://www.pods.finance/  app docs github
+* Investment - Jonathan? from Hong Kong twitter: @mapleleafcap
+* mai.finance
+  * Ben - QiDao - Lending Protocol - telegram: @Benjamin891 https://mai.finance docs github
+  * Christian Holman twitter: @0xholman
+* One Family - david.crazy.one
+* Stealth Project - Ask Li and Daniell? Founder worked at coinbase with Mei, located in Taiwan.
+* Peer Rich - twitter: @peer_rich https://cal.com/
+* NFT Collateralization: telegram @Raphael_0x
+* Random Attendee: twitter @solangegueiros (was on the laptop at the start of the conference)
+* BLS Security: twitter: @bela_guer https://guer.co/ - introducing to RJ.
 
 
 Tue Oct 19th - 8hrs
@@ -107,8 +107,8 @@ The Daoist
 
 Contacts
 
-Spruce : Wayne Chang telegram:@wychat
-Solidity Core Developer:
+* Spruce : Wayne Chang telegram:@wychat
+* Solidity Core Developer:
 
 Wed Oct 20th - 8 hrs
 Liscon Day 1
@@ -125,7 +125,7 @@ Liscon Day 2
 
 13:00 - 22:00
 Contacts
-OVR
+* OVR
 
 Fri Oct 22nd - - Flight to SFO (13hrs)
 -
