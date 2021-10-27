@@ -7,5 +7,6 @@
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 10/25  | 11:00  | 18:00  | 8  | Working on migration script issue and finding the reason. Checked truffle configs and all upgradeable contracts. Added truffle-upgrae library and updated the migration script for the upgradeable contract deployment. |
-| 10/26  | 11:00  | 17:00  | 9  | Build the new smart contract project using truffle-upgrade library and tested the migration scripts with the same truffle configs and the simple ERC20 upgradeable contracts. |
+| 10/25  | 10:00  | 18:00  | 8  | Working on migration script issue and finding the reason. Checked truffle configs and all upgradeable contracts. Added truffle-upgrae library and updated the migration script for the upgradeable contract deployment. |
+| 10/26  | 10:00  | 19:00  | 9  | Build the new smart contract project using truffle-upgrade library and tested the migration scripts with the same truffle configs and the simple ERC20 upgradeable contracts. |
+| 10/27  | 11:00  | 20:00  | 9  | Adjusted package versions and added truffle-upgreade package. Updated the deployment scripts. Made collateral, TxValidate and VaultRegistry contracts upgradeable and added gaps. |
