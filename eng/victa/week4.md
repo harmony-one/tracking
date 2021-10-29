@@ -18,15 +18,15 @@
 <details>
   <summary>Reference Material </summary>
   
-  1. [Aragon - PR and Deployment Support](https://github.com/aragon/aragon.js/pull/490)
-  2. [Aragon - PR and Deployment Support](https://github.com/aragon/aragon-apps/pull/1336)
-  3. [Aragon - PR and Deployment Support](https://github.com/aragon/dao-templates/pull/178)
-  4. [Aragon - PR and Deployment Support](https://github.com/aragon/use-wallet/pull/139)
-  5. [Aragon - PR and Deployment Support](https://github.com/aragon/client/pull/1662)
-  6. [Aragon - PR and Deployment Support](https://github.com/aragon/ui/pull/861)
-  7. [Snapshot - Snapshot Research (read docs, GitHub, test code)](https://github.com/harmony-one/snapshot/issues/13)
-  8. [Snapshot - Snapshot Research (read docs, GitHub, test code)](https://docs.snapshot.org/)
-  9. [Snapshot - Snapshot Research (read docs, GitHub, test code)](https://github.com/snapshot-labs/snapshot/tree/develop/src/components/Voting)
-  10. [Snapshot - Snapshot Research (read docs, GitHub, test code)](https://github.com/victaphu/snapshot-hub)
-  11. [Snapshot - Snapshot development](https://github.com/victaphu/snapshot)
+  1. [Aragon - PR and Deployment Support - updates for aragon.js PR](https://github.com/aragon/aragon.js/pull/490)
+  2. [Aragon - PR and Deployment Support - updates for aragon-apps PR](https://github.com/aragon/aragon-apps/pull/1336)
+  3. [Aragon - PR and Deployment Support - updates for dao-template PR](https://github.com/aragon/dao-templates/pull/178)
+  4. [Aragon - PR and Deployment Support - updates for use-wallet PR](https://github.com/aragon/use-wallet/pull/139)
+  5. [Aragon - PR and Deployment Support - updates for client PR](https://github.com/aragon/client/pull/1662)
+  6. [Aragon - PR and Deployment Support - updates for ui PR](https://github.com/aragon/ui/pull/861)
+  7. [Snapshot - Snapshot Research (read docs, GitHub, test code) - issue #13](https://github.com/harmony-one/snapshot/issues/13)
+  8. [Snapshot - Snapshot Research (read docs, GitHub, test code) - documentation review](https://docs.snapshot.org/)
+  9. [Snapshot - Snapshot Research (read docs, GitHub, test code) - source code review](https://github.com/snapshot-labs/snapshot/tree/develop/src/components/Voting)
+  10. [Snapshot - Snapshot Research (read docs, GitHub, test code) - source code review on fork and development](https://github.com/victaphu/snapshot-hub)
+  11. [Snapshot - Snapshot development - development in local fork](https://github.com/victaphu/snapshot)
 </details>
