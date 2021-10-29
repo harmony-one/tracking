@@ -8,12 +8,12 @@
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
 | 11/10 | 00:00 | 00:00 | 0 | Aragon - PR and Deployment Support (see reference 1,2,3,4,5,6) |
-| 11/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot Research (read docs, GitHub, test code) (see reference 7,8,9,10) |
-| 12/10 | 09:00 | 10:00 | 1 | Snapshot - Snapshot Research (read docs, GitHub, test code) (see reference 7,8,9,10) |  
-| 12/10 | 10:00 | 13:00 | 3 | Snapshot - Snapshot development (see reference 11) |
-| 13/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) |
-| 14/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) |
-| 15/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) | 
+| 11/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot Research (read docs, GitHub, test code) - study documentation(see reference 7,8,9,10) |
+| 12/10 | 09:00 | 10:00 | 1 | Snapshot - Snapshot Research (read docs, GitHub, test code) - study source code (see reference 7,8,9,10) |  
+| 12/10 | 10:00 | 13:00 | 3 | Snapshot - Snapshot development (see reference 11) - begin development in local fork of harmony snapshot |
+| 13/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) - begin development in local fork of harmony snapshot |
+| 14/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) - begin development in local fork of harmony snapshot |
+| 15/10 | 09:00 | 13:00 | 4 | Snapshot - Snapshot development (see reference 11) - begin development in local fork of harmony snapshot | 
 
 <details>
   <summary>Reference Material </summary>
