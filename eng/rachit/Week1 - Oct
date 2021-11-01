@@ -1,0 +1,13 @@
+# Summary
+* Owner: Rachit
+* Total: 10 hours
+* Overtime: 2 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 10/8  | 8:30  | 1:30  | 5  | Installing vyper and going throught its docs.  |
+| 10/9  | 13  | 6  | 5  | Rewritting the code verifier for vyper support. Testing the repo with solc code and vyper basic snippets.  |
+
+
+Week 3 Aug - Total hrs: 10
