@@ -1,0 +1,13 @@
+
+# Summary
+* Owner: Rachit
+* Total: 10 hours
+* Overtime: 2 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 13/11 | 15:00  | 20:00  | 5  | Sla tests writing.  |
+| 14/11  | 14:00  | 21:00  | 7  |Test bug fixes. Debugging the contract for mismatch. Comparing back and forth with the canary version for the math.. Commiting the changes.Created https://github.com/harmony-one/onebtc/pull/80|
+
+Week 2 Sept - Total hrs: 12
