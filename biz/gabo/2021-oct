@@ -5,22 +5,22 @@
 * Overtime: 0 hours
 
 # Time Table
-| date  | start time  | end time | duration  |  note |
-|-------|-------------|----------|-----------|-------|
-| 10/18 |             |          |     1     | Intro to talk.harmony.one, Github setup  |
-| 10/20 |             |          |     2     | read through funding proposals and review documentation on bounties, grants and DAOs  |
-| 10/21 |             |          |     2     | read through approved proposals, research & analyze proposals In Review, engage in talk.harmony.one  |
-| 10/22 |             |          |     3     | Map out current grantees by category and $ amounts. Design and generate reports   |
-| 10/22 |             |          |     1     | Requirements gathering  |
-| 10/26 |             |          |     2     | Sort through list of WePiggy testnet account transactions and their socials, start to review Tranquility City, update Grantees by Category report  |
-| 10/28 |             |          |     2     | Fundraising Proposals Forum and Telegram support  |
-| 10/29 |             |          |     1     | read and familiarize through Harmony GitHub   |
-| 11/01 |             |          |     1     | Internal support for Interview notes   |
-| 11/02 |             |          |     1     | Fundraising Proposals Forum and Telegram support  |
-| 11/03 |             |          |     2     | Airtable updates (approved date), call with Jack  |
-| 11/04 |             |          |     1     | Fundraising Proposals Forum and Telegram support  |
-| 11/06 |             |          |     1     | Fundraising Proposals Forum support  |
-| 11/08 |             |          |     3     | Airtable workspace set up + Funding proposals moderation  |
-| 11/09 |             |          |     3     | Funding Standup working session, proposal reporting on AirTable, Tranquil City app harmony testnet testing  |
-| 11/11 |             |          |     1     | Fundraising Proposals Forum and Telegram support  |
-| 11/13 |             |          |     1     | Harmural testing (Testnet)  |
+| date  | duration  |  note |
+|-------|-----------|-------|
+| 10/18 |     1     | Intro to talk.harmony.one, Github setup  |
+| 10/20 |     2     | read through funding proposals and review documentation on bounties, grants and DAOs  |
+| 10/21 |     2     | read through approved proposals, research & analyze proposals In Review, engage in talk.harmony.one  |
+| 10/22 |     3     | Map out current grantees by category and $ amounts. Design and generate reports   |
+| 10/22 |     1     | Requirements gathering  |
+| 10/26 |     2     | Sort through list of WePiggy testnet account transactions and their socials, start to review Tranquility City, update Grantees by Category report  |
+| 10/28 |     2     | Fundraising Proposals Forum and Telegram support  |
+| 10/29 |     1     | read and familiarize through Harmony GitHub   |
+| 11/01 |     1     | Internal support for Interview notes   |
+| 11/02 |     1     | Fundraising Proposals Forum and Telegram support  |
+| 11/03 |     2     | Airtable updates (approved date), call with Jack  |
+| 11/04 |     1     | Fundraising Proposals Forum and Telegram support  |
+| 11/06 |     1     | Fundraising Proposals Forum support  |
+| 11/08 |     3     | Airtable workspace set up + Funding proposals moderation  |
+| 11/09 |     3     | Funding Standup working session, proposal reporting on AirTable, Tranquil City app harmony testnet testing  |
+| 11/11 |     1     | Fundraising Proposals Forum and Telegram support  |
+| 11/13 |     1     | Harmural testing (Testnet)  |
