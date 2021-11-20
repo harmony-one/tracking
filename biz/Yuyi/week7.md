@@ -3,8 +3,9 @@
 * Week 7: 11/08-11/14
 * Total: 8 hours
 * Overtime: 0 hours
-* # Time Table
-* | date  | start time  | end time | duration  |  note |
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
 | 11/08 |   |   | 2 | Introduced Harmony's ecology and TVL to imtoken and communicated details  |
 | 11/09 |   |   | 1.5 | Tested and explained IDO mechanism of Artemis to community |
