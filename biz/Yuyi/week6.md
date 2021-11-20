@@ -3,8 +3,9 @@
 * Week 6: 11/01-11/07
 * Total: 7 hours
 * Overtime: 0 hours
-* # Time Table
-* | date  | start time  | end time | duration  |  note |
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
 | 11/01 |   |   | 1 | Introduced the 12 new proposals passed last week  |
 | 11/02 |   |   | 2 | Tested Tranquil lending function and introduce to community |
