@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 14: 11/8-11/14
 * Total: 6.0 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |

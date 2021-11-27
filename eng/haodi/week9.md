@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 5: 09/27-10/03
 * Total: 7.5 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
