@@ -33,4 +33,4 @@
   11. [Explorer Task #69 - Development of Vyper Integration - added support for vyper building on top of merge from rachit. Fixed issues with validation logic](https://explorer-2.netlify.app/address/0xa282df1448f5a4a11fd954caa2c27200f13806a0?activeTab=6)
   12. [Explorer Task #69 - Development of Vyper Integration - added support for vyper building on top of merge from rachit. Fixed issues with validation logic](https://ftmscan.com/address/0x727fe1759430df13655ddb0731de0d0fde929b04#code)
   13. [Explorer Task #69 - Development of Vyper Integration - added support for vyper building on top of merge from rachit. Fixed issues with validation logic](https://github.com/victaphu/contract-verification-service)
-</details>
+</details> 
