@@ -1,0 +1,14 @@
+
+
+# Summary
+* Owner: Rachit
+* Total: 10 hours
+* Overtime: 2 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 10 /30 | 21:00 | 2:00 | 7 | Completing the solidity code for sla module referring the crates. Compilation successful. |
+| 10 /31  | 23:00  | 3:00  | 5  | Started with writing tests. Fixing the wrapper contract for chai tests with the contructor arguments. Getting the compilation working againg. Changes pushed to https://github.com/harmony-one/onebtc/tree/sla  |
+
+Week 4 Oct - Total hrs: 12

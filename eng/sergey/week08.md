@@ -8,5 +8,5 @@
 | 10/19  | Added support onewallet, added small fixes |
 | 10/20  | Added charts |
 | 10/21  | Added charts to dashboard and other pages, used chart.js |
-| 10/22  |  |
+| 10/22  | Added vault status online/offline to issue page |
  
