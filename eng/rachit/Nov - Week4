@@ -7,5 +7,6 @@
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
 | 25/11 | 12:00  | 5:00  | 5  | Cli testing after Jenya's instructions on other modules installations needed that were not documented. Tinkering with the cli to see if all the operations work. Created examples in the Readme for the same. ELC didn't work. Reported the bug to the team. Asked for push access to the repo to push examples. |
+| 30/11 | 1:00 | 6:00 | 4 | Looking into git stashing concept trying to remove exchangeoracle commits inside sla pr.  Reviwing security module specifications for issue https://github.com/harmony-one/onebtc/issues/29 | 
 
-Week 4 Nov - Total hrs: TDA
+Week 4 Nov - Total hrs: 9
