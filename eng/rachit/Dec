@@ -1,0 +1,17 @@
+# Summary
+* Owner: Rachit
+* Month: Dec
+* Timezone: IST
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 12/1 | 10:00 | 12 | 2 | Reviwing the 3 sdk issues got tagged by Ganesha. |
+| 12/3 | 20:00 | 1:00 | 5 | Writing scripts for the mentioned issues and testing the issues. |
+| 12/6 | 16:00 | 10 | 6 | Adding comments to all the issues and suggestions in the discord group with Ganesha, Jenya for issues not related to sdk but to backend |
+| 12/14 | 18:00 | 00:00 | 6 | Catching up with the updates on the issues. Running those scripts mentioned in the new comments and tracing them. Fixing the rebase on sla module. Also following up on the DigHash problem with Ganesha. |
+| 12/18 | 15:00 | 00:00 | 7 | Researching into EthHash and DagProof, reviwing the code mentioned in the issue by ganesha ![Link](https://github.com/harmony-one/horizon/blob/main/tools/eth2hmy-relay/lib/DagProof.js#L59). Reviwing articles regarding the Dag approach for writing blocks on a blockchain |
+| 12/24 | 19:00 | 1: 00 | 6 | Trying to get the EthHash working using the horizon cli for blocks after london fork. After failure, started with reviwing the changes implemented as part of eip 1559 ( london fork ) |
+| 12/30 | 14:00 | 20:00 | 6 | Continuing with the study of changes in the london fork. |
+
+Total Time: 38 hrs
