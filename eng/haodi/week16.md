@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 16: 11/22-11/28
 * Total: 10.5 hours (overload 0.5h)
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
