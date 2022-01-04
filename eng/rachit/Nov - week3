@@ -6,8 +6,8 @@
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 01/11 | 13:00  | 18:00  |  |  |
-| 02/11  | 2:00  | 5:00  |  |  |
-| 03/11  | 2:00  | 5:00  |   |  tool |
+| 18/11 | 9  | 12  | 3 | Coordinating/Call with Sahil regardint ONE BTC. Reviwing the Security Module specifications and looking for the same in crates. |  
+| 19/11  | 1:00 | 5:00  | 5  | Looking into the Horizon Repo. Trying to install and setup. Reporting all the errors. Got an nmap error, tried debugging. Trying out with different node and npm versions |
+| 21/11  | 3:00  | 5:00  |  2 |  Setting up the node on windows machine and Tryng running the same code on windows. Same error. Reported to Ganesha.  |
 
-Week 1 Sept - Total hrs: 11
+Week 1 Sept - Total hrs: 10
