@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 18: 12/6-12/12
 * Total: 9.5 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |

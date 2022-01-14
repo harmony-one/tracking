@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 15: 11/15-11/21
 * Total: 9.5 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
