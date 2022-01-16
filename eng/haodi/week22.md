@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 22: 1/3-1/9
 * Total:  14.5 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
