@@ -1,6 +1,6 @@
 # Summary
 * Owner: victaphu
-* Week 10: 10/01-16/01
+* Week 17: 10/01-16/01
 * Total: 20 hours
 * Overtime: 0 hours
 
