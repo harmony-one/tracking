@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 17: 12/13-12/19
 * Total: 10 hours
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
