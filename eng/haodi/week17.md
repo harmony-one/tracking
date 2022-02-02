@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 17: 11/29-12/5
 * Total: 10.5 hours (overload 0.5h)
-* Status: Unpaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
