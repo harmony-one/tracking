@@ -1,0 +1,13 @@
+# Summary
+* Owner: Rachit
+* Total: 10 hours
+* Overtime: 2 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 16/02/22 | 15:00  | 20:00  | 5  | Started with writing the unit tests. Reading all the existing bridge contracts. |
+| 22/02/22  | 18:00  | 1:00  | 7  | Started writing some unit tests. Removed the unused and dead code. Also fixed the hardhat configuration.|
+| 23/02/22 | 12:00 | 16:00 | 3 | Looking into the structure of topics variable and how to generate. |
+
+Februray 2022 - Total hrs: 15
