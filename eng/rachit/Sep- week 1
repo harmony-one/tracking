@@ -1,0 +1,13 @@
+# Summary
+* Owner: Rachit
+* Week X: 1
+* Total: 10 hours
+* Overtime: 2 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 01/09  | 9:00  | 10  | 1  | Checking all the issues i was tagged in for one - btc bridge  |
+| 05/09  | 12:00  | 17:00  | 7  | Addressed https://github.com/harmony-one/onebtc/issues/28 and wrote its tests and looking around for https://github.com/harmony-one/onebtc/issues/29 to find the code snippped fot his. Furthure ran into a migration error, looking into the reason for it.|
+
+Week 1 Sept - Total hrs: 8

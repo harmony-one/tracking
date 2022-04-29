@@ -1,0 +1,27 @@
+ Owner: Karl
+* Month of November
+* Total: 19 hours
+* Overtime: 0 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 11/11  | 4:00  | 8:00  | 4  | Security Audit in multisig.harmony.one  |
+| 11/15  | 4:00  | 8:00  | 4  | Security Audit in *harmony.one subdomains  |
+| 11/16  | 7:30  | 11:30  | 4  | Security Audit in *oin.finance  |
+| 11/24  | 4:00  | 11:00  | 7  | Security Audit in *crazy.one subdomains  |
+
+* Month of December
+* Total: 36 hour
+* Overtime: 0 hours
+
+# Time Table
+| date  | start time  | end time | duration  |  note |
+|---|---|---|---|---|
+| 12/05  | 4:00  | 11:00  | 7  | Security Audit in Harmony Chrome Extension  |
+| 12/06  | 8:00  | 15:00  | 7  | Security Audit in Harmony Chrome Extension  |
+| 12/07  | 7:00  | 14:00  | 7  | Security Audit in Harmony Chrome Extension  |
+| 12/08  | 4:00  | 7:00  | 3  | Security Audit in Harmony Chrome Extension  |
+| 12/10  | 4:00  | 8:00  | 4  | Security Audit in staking.harmony.one  |
+| 12/11  | 4:00  | 8:00  | 4  | Security Audit in Harmony Chrome Extension Lower Version  |
+| 12/11  | 13:00  | 16:00  | 4  | Security Audit in Harmony Exposure to Log4J Vulnerability  |

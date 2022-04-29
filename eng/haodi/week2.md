@@ -3,6 +3,7 @@
 * Week 1: 08/09-08/15
 * Total: 10.5 hours
 * Overtime: 0.5 hours
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
