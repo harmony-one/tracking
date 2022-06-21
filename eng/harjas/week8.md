@@ -1,7 +1,7 @@
 # Summary
 * Owner: Harjas 
 * Week 8: 05/23-05/29
-* Total: 3 hours
+* Total: 4.5 hours
 * Overtime: 0 hours
 
 # Time Table
