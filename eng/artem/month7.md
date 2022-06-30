@@ -1,0 +1,18 @@
+# Summary
+* Owner: Artem
+* 2022 June 20 to 2022 July 17
+* Total: N hours
+
+# deliverables
+| date     | start time  | end time | duration (h) | deliverables                                                                                                                                                                                                                                                       |
+|----------| ------ |----------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 30.06.22 | 10:00  | 16:00    | 6    | Completed report of past and current balances of all bridges erc20 tokens: [Script commit](https://github.com/ArtemKolodko/harmony-scripts/commit/157126a18c2b66de9e12b09dfc0d20e4b1358123)                                                                        |
+| 29.06.22 | 10:00  | 16:00    | 6    | Created service script to collect all HRC20 bridge tokens list and balances at any block number [Commit](https://github.com/ArtemKolodko/harmony-scripts/commit/d6bcff9637e88e08afbc789b451b16a8ef51dead)                                                          |
+| 28.06.22 | 10:00  | 16:00    | 6    | WIP: improving explorer UI transactions list; Fixing failed harmony sdk Travis CI build [PR #128](https://github.com/harmony-one/sdk/pull/128)                                                                                                                     |
+| 27.06.22 | 10:00  | 16:00    | 6    | Updated multisig api1, api2 instances to support `isSynced` flag (https://multisig.t.hmny.io/api/v1/about/master-copies/); Changed Multisig RPC api url [PR #30](https://github.com/harmony-one/multisig-react/pull/30)                                            |
+| 25.06.22 | 10:00  | 16:00    | 6    | Explorer backend optimizations to prevent memory leak in cache: REST API rate limiter [PR #65](https://github.com/harmony-one/explorer-v2-backend/pull/65), cache max size [PR # 69](https://github.com/harmony-one/explorer-v2-backend/pull/69)                   |
+| 24.06.22 | 10:00  | 16:00    | 6    | Added staking banner to Multisig safe pages [PR #28](https://github.com/harmony-one/multisig-react/pull/28); Implemented rate limiter for explorer REST API endpoints [PR #65](https://github.com/harmony-one/explorer-v2-backend/pull/65)                         |
+| 23.06.22 | 10:00  | 16:00    | 6    | Fixed bug with multisig staking value amount for big values [PR #29](https://github.com/harmony-one/multisig-react/pull/29); Added isSynced flag to Gnosis Multisig safe info endpoint [PR #8](https://github.com/harmony-one/multisig-transaction-service/pull/8) |
+| 22.06.22 | 10:00  | 16:00    | 6    | Replaced potentially vulnerable library scrypt-shim with scrypt.js; Added new test suit and 10 tests to check compatibility: [PR #128](https://github.com/harmony-one/sdk/pull/128)                                                                                |
+| 21.06.22 | 10:00  | 16:00    | 6    | Developed new dropdown validators list on multisig staking page [PR #27](https://github.com/harmony-one/multisig-react/pull/27)                                                                                                                                    |
+| 20.06.22 | 10:00  | 16:00    | 6    | Reverted blocks on testnet explorer DB: writing [SQL migration script](https://discord.com/channels/@me/918404602917965834/988420205183127572), testing, apply on s0-s3 shards on Testnet DDB                                                                      |
