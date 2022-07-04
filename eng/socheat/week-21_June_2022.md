@@ -18,7 +18,3 @@
 |              |           | 09:30 PM   | 11:00 PM | 1.5h     | Learn Ansible - "Ansible Advanced - Hands-On - DevOps" on Udemy                                                             |
 | 01 July 2022 | Friday    | 07:30 AM   | 09:00 AM | 1.5h     | Learn Ansible - "Ansible Advanced - Hands-On - DevOps" on Udemy                                                             |
 |              |           | 09:30 PM   | 11:00 PM | 1.5h     | Learn Ansible - "Ansible Advanced - Hands-On - DevOps" on Udemy                                                             |
-| 02 July 2022 | Saturday  | 07:30 AM   | 09:00 AM | 0h       |                                                                                                                             |
-|              |           | 09:30 PM   | 11:00 PM | 0h       |                                                                                                                             |
-| 03 July 2022 | Sunday    | 07:30 AM   | 09:00 AM | 0h       |                                                                                                                             |
-|              |           | 09:30 PM   | 11:00 PM | 0h       |                                                                                                                             |
