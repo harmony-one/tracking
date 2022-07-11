@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 44 6/6-6/12
 * Total: 19 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |

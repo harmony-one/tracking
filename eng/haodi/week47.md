@@ -1,8 +1,8 @@
 # Summary
 * Owner: haodi
-* Week 46 6/27-7/3
+* Week 47 6/27-7/3
 * Total: 16.5 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
