@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 45 6/13-6/19
 * Total: 16.5 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |

@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 43 5/30-6/5
 * Total: 15 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
