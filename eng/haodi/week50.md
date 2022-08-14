@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 50 7/18-7/24
 * Total:  19 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
