@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 53 8/8-8/14
 * Total: 20 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
