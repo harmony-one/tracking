@@ -1,0 +1,26 @@
+# Summary
+
+* Owner: Socheat KHAUV
+* Total: 20 hours
+* Overtime: 0 hours
+
+# Time Table
+
+| Date           | Day       | Start Time | End Time | duration | Task                                                                    |
+|----------------|-----------|------------|----------|----------|-------------------------------------------------------------------------|
+| 15 August 2022 | Monday    | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 16 August 2022 | Tuesday   | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 17 August 2022 | Wednesday | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 18 August 2022 | Thursday  | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 19 August 2022 | Friday    | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 20 August 2022 | Saturday  | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+| 21 August 2022 | Sunday    | 07:30 AM   | 09:00 AM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+|                |           | 09:30 PM   | 11:00 PM | 1.5h     | Fixing and Monitoring (Snapshot Job + Snapshot Release Job) Into Storj  |
+
+
