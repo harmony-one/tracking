@@ -2,7 +2,7 @@
 * Owner: haodi
 * Week 55 8/22-8/28
 * Total: 20 hours
-* Status: UnPaid
+* Status: Paid
 
 # Time Table
 | date  | start time  | end time | duration  |  note |
